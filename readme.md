@@ -10,7 +10,7 @@ Features List {
     (No Natives Invoker Included).
 }
 
-Made by Ramsey#1337 & Cringe1337#7720 with Love!
+Made by Ramsey#1337 & opalee#1337 with Love!
                 
 It has an custom SDK that Ramsey#1337 made. 
 
