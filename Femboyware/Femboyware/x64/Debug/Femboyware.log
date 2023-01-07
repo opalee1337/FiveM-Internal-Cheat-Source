@@ -1,0 +1,14 @@
+﻿  Memory.cpp
+  Renderer.cpp
+  CMath.cpp
+C:\Users\sanyk\source\repos\Femboyware\Femboyware\ext\SDK\CMath\CMath.cpp(27,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Offsets.cpp
+  SDK.cpp
+  Aimbot.cpp
+C:\Users\sanyk\source\repos\Femboyware\Femboyware\src\Features\Aimbot\Aimbot.cpp(35,112): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\sanyk\source\repos\Femboyware\Femboyware\src\Features\Aimbot\Aimbot.cpp(35,74): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Wallhack.cpp
+  Main.cpp
+  Generating Code...
+C:\Users\sanyk\source\repos\Femboyware\Femboyware\ext\SDK\SDK.cpp(27): warning C4715: 'SDK::Camera::GetCam': not all control paths return a value
+  Femboyware.vcxproj -> C:\Users\sanyk\source\repos\Femboyware\x64\Debug\Femboyware.dll
