@@ -1,7 +1,21 @@
-Free FiveM/Gta cheat Source.
+FiveM/GTA5 Cheat source code. 
 
-Status: Undetected (date)
+Working 07/01/2023
 
-made by Phytrix and Ramsey with love
+Made by Ramsey#1337 & Cringe1337#7720
 
-Skid of this we dont care ^^
+Features
+{
+    Aimbot
+    ESP: Snaplines, Box, Skeleton, Healthbar
+    Misc: Give Weapon To Ped
+ }
+ 
+ It has an custom SDK that Ramsey#1337 made. 
+
+Skid of this we dont fcking care ^^
+
+Discord: https://discord.gg/HpKyWv7whP
+Elanium Softwares: https://discord.gg/9CgcecV3Ya
+
+Have fun :D
